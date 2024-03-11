@@ -1,14 +1,18 @@
 {
   "name": "sengint-js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ieee",
+    "scrape",
+    "search-engine"
+  ],
+  "author": "0zyyy",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.7",
@@ -19,7 +23,7 @@
     "url": "https://github.com/0zyyy/senginta-js.git"
   },
   "bugs": {
-    "url": "https://github.com/0zyyy/senginta-js/issue"
+    "url": "https://github.com/0zyyy/senginta-js/issues"
   },
   "homepage": "https://github.com/0zyyy/senginta-js#readme"
 }
